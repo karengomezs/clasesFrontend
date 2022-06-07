@@ -1,0 +1,42 @@
+.logo{
+    display: block;
+    margin: auto;
+}
+
+.cursiva{
+    font-weight: bold;
+    font-style: italic;
+}
+
+span{
+    font-weight: bold;
+}
+
+.titulo{
+    font-size: 35px;
+    background-color: #C4C4C4;
+    color: #005677;
+    text-align: center;
+}
+
+.subtitulo{
+    font-size: 20px;
+    background-color:#C4C4C4;
+    color:  #005677;
+}
+
+.listaTitulo{
+    font-size: 15px;
+}
+
+.listaSubtitulo{
+    list-style-type: none;
+    font-size: 15px;
+}
+
+
+.footer{
+    background-color: #005677;
+    color: white;
+    text-align: center;
+}

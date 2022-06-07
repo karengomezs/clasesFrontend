@@ -1,0 +1,42 @@
+/* SELECTOR DE ETIQUETA */
+
+
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+
+
+.header-background{
+    background-image: url('https://wallpaperaccess.com/full/2478733.jpg');
+    background-size: contain;
+}
+
+/* generales */
+body{
+    background-color: rgb(224, 224, 224);
+    font-family:'Oswald', sans-serif;
+    
+}
+
+
+/* header */
+.img-logo{
+    width: 50px;
+    height: 30px;
+}
+
+.textos{
+    color: rgb(78, 146, 146);
+}
+
+#nav-header{
+    list-style-type: none;
+    }
+
+.a-header{
+    color: #000000;
+    text-decoration: none;
+}
+
+/*  */
+.img-home{
+
+}
