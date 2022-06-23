@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html{
+    font-size: 62.5%;
+}
+
+.discount-div{
+    background-color: #1CD1B0;
+    height: 2vh;
+}
+
